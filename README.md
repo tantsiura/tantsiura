@@ -14,8 +14,10 @@ I'm a passionate fintech professional with over 5 years of experience in the fin
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![DeFi](https://img.shields.io/badge/-DeFi-FF69B4?style=flat-square&logo=ethereum&logoColor=white)
+![Trading](https://img.shields.io/badge/-Trading-008000?style=flat-square&logo=line-chart&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 
 - **Languages:** Python, SQL (PostgreSQL, MS SQL), C#
 - **Technologies:** REST, SOAP, XML, JSON
@@ -97,7 +99,6 @@ I'm a passionate fintech professional with over 5 years of experience in the fin
 
 ### 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tantsiura&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tantsiura&theme=dark)](https://streak-stats.demolab.com?user=tantsiura&theme=dark)
 
 ⭐️ From [Ekaterina Tantsiura](https://github.com/tantsiura)
