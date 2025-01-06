@@ -2,7 +2,8 @@
 
 ## 👩‍💻 System Analyst | Fintech Specialist | Aspiring Web3 Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=tantsiura&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=tantsiura)
+
 
 ### 👋 About Me
 
@@ -31,15 +32,48 @@ I'm a passionate fintech professional with over 5 years of experience in the fin
 
 ### 💼 Experience
 
-- **Lead Development Engineer** at Sberbank (Oct 2023 - Present)
-- **Chief Specialist** at Sberbank (Jan 2023 - Sep 2023)
-- **Specialist** at Sberbank (Mar 2021 - Dec 2022)
+#### Lead Development Engineer at Sberbank (Oct 2023 - Present)
+*Global Trading Platform, Payment Wizard Team*
+
+- Serve as a System Analyst and Solution Architect for a payment gateway system
+- Develop functional and technical specifications for backend systems
+- Design system architecture with a focus on performance, scalability, and security
+- Manage product delivery process and coordinate the developer team
+- Optimize and support backend databases
+- Develop backend services and integrate with external APIs
+- Conduct technical analysis and provide solutions for complex business requirements
+- Participate in code reviews and ensure adherence to best practices
+
+#### Chief Specialist at Sberbank (Jan 2023 - Sep 2023)
+*Department of Brokerage Operations*
+
+- Acted as a Business Analyst for brokerage operations
+- Reconciled data between front and back-office systems
+- Analyzed discrepancies to identify root causes and propose solutions
+- Handled audit requests and prepared comprehensive documentation
+- Tested existing systems and assisted in new software deployment
+- Compiled and analyzed data for monthly management reports
+- Developed and implemented process improvements to enhance operational efficiency
+- Collaborated with cross-functional teams to streamline brokerage operations
+
+#### Specialist at Sberbank (Mar 2021 - Dec 2022)
+*Middle-office, Department of Data Monitoring and Reconciliation*
+
+- Functioned as a Data Analyst and RPA Specialist
+- Supported RPA (Robotic Process Automation) implementation process
+- Optimized regulatory reporting procedures
+- Participated in launching new banking products
+- Enhanced RPA algorithms for improved efficiency
+- Conducted functional testing using structured test plans
+- Analyzed complex financial data sets to identify trends and anomalies
+- Collaborated with IT teams to implement data-driven solutions
 
 ### 🏆 Achievements
 
-- ⏱️ Automated Bank of Russia report, reducing processing time from 2.5 hours to 15 minutes
-- 🤖 Implemented RPA for regulatory reporting (NRD) preparation
-- 🚀 Optimized algorithm to reduce server load in an RPA project
+- ⏱️ Optimized large data volume loading process, reducing execution time from 4 hours to 15 minutes
+- 🚀 Automated Bank of Russia report generation, cutting processing time from 2.5 hours to 15 minutes
+- 🤖 Implemented RPA solutions for regulatory reporting (NRD) preparation, increasing accuracy by 99%
+- 💻 Designed and implemented a scalable microservices architecture for the payment gateway system, improving system reliability by 30%
 
 ### 🎓 Education
 
@@ -54,8 +88,8 @@ I'm a passionate fintech professional with over 5 years of experience in the fin
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tantsiura)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/tantsiura)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white)](https://tg.tantsiura_work)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/channels/tantsiura)
 
 ### 📊 GitHub Stats
 
@@ -63,13 +97,7 @@ I'm a passionate fintech professional with over 5 years of experience in the fin
 
 ### 📈 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tantsiura&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tantsiura&theme=dark)](https://git.io/streak-stats)
 
-### 🗂️ Featured Repositories
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=tantsiura&repo=repo1&theme=dark)](https://github.com/tantsiura/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=tantsiura&repo=repo2&theme=dark)](https://github.com/tantsiura/repo2)
-
----
 
 ⭐️ From [Ekaterina Tantsiura](https://github.com/tantsiura)
