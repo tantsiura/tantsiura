@@ -97,8 +97,4 @@ I'm a passionate fintech professional with over 5 years of experience in the fin
 
 ![Ekaterina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tantsiura&show_icons=true&theme=radical)
 
-### 📈 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tantsiura&theme=dark)](https://streak-stats.demolab.com?user=tantsiura&theme=dark)
-
 ⭐️ From [Ekaterina Tantsiura](https://github.com/tantsiura)
