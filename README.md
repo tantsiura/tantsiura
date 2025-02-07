@@ -1,91 +1,52 @@
 # Ekaterina Tantsiura
 
-## 👩‍💻 System Analyst | Fintech Specialist | Aspiring Web3 Developer
-
-![](https://komarev.com/ghpvc/?username=tantsiura)
-
+## 👩💻 FullStack Analyst | Blockchain Specialist | DeFi Expert
 
 ### 👋 About Me
+System Analyst with 5+ years in fintech, specializing in blockchain solutions and digital financial assets. Expert in high-load system architecture design and asset tokenization.
 
-I'm a passionate fintech professional with over 5 years of experience in the financial sector. My journey began in traditional finance and has evolved towards blockchain and decentralized systems. Currently, I'm working as a Lead Development Engineer at Sberbank's Global Trading Platform, while also pursuing my interests in DeFi and smart contract development.
-
-### 🛠️ Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![DeFi](https://img.shields.io/badge/-DeFi-FF69B4?style=flat-square&logo=ethereum&logoColor=white)
-![Trading](https://img.shields.io/badge/-Trading-008000?style=flat-square&logo=line-chart&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-
-- **Languages:** Python, SQL (PostgreSQL, MS SQL), C#
-- **Technologies:** REST, SOAP, XML, JSON
-- **Modeling:** UML, Aris
-- **Tools:** Git, Atlassian Jira, Confluence, BitBucket
-- **Finance:** Trading, Brokerage, DeFi
+### 🛠️ Technical Stack
+**Blockchain:** Solidity, ERC-20/ERC-721, DeFi protocols, Smart Contract Auditing  
+**Backend:** Python, C#, Apache Kafka, Docker, REST/SOAP API  
+**Data:** SQL (PostgreSQL, MS SQL), Power BI, XML/XBRL  
+**DevOps:** OpenShift, Git, CI/CD  
+**Modeling:** BPMN 2.0, UML, Microservice Architecture
 
 ### 🚀 Current Focus
 
-- 🏦 Developing scalable backend solutions for trading platforms
-- 📚 Learning smart contract development with GuideDAO
+- 📚 Learning smart contract development and audit with GuideDAO
 - 💹 Exploring DeFi protocols and tokenomics
 - 🔍 Contributing as an analyst to the startup project [GIC DAO](https://github.com/gotois)
 
-### 💼 Experience
 
-#### Lead Development Engineer at Sberbank (Oct 2023 - Present)
-*Global Trading Platform, Payment Wizard Team*
+### 💼 Key Experience
+#### FullStack Analyst @ Sberbank (Oct 2024 - Present)  
+`Global Trading Platform Tribe`  
+- DLT architecture for digital financial assets (DFA)  
+- Smart contract development for asset tokenization  
+- Blockchain platform integration with traditional trading systems  
+- API gateway design for high-load systems  
 
-- Serve as a System Analyst and Solution Architect for a payment gateway system
-- Develop functional and technical specifications for backend systems
-- Design system architecture with a focus on performance, scalability, and security
-- Manage product delivery process and coordinate the developer team
-- Optimize and support backend databases
-- Develop backend services and integrate with external APIs
-- Conduct technical analysis and provide solutions for complex business requirements
-- Participate in code reviews and ensure adherence to best practices
+#### System Analyst @ Sberbank (Oct 2023 - Sep 2024)  
+`Global Trading Platform`  
+- Microservice architecture implementation for 1M+ daily transactions  
+- ETL process optimization using Apache Kafka  
+- Docker containerized solutions development  
 
-#### Chief Specialist at Sberbank (Jan 2023 - Sep 2023)
-*Department of Brokerage Operations*
+### 🏆 Key Achievements
+- 95% data processing time reduction through ETL pipeline optimization  
+- RPA implementation for automated XBRL reporting generation  
 
-- Acted as a Business Analyst for brokerage operations
-- Reconciled data between front and back-office systems
-- Analyzed discrepancies to identify root causes and propose solutions
-- Handled audit requests and prepared comprehensive documentation
-- Tested existing systems and assisted in new software deployment
-- Compiled and analyzed data for monthly management reports
-- Developed and implemented process improvements to enhance operational efficiency
-- Collaborated with cross-functional teams to streamline brokerage operations
-
-#### Specialist at Sberbank (Mar 2021 - Dec 2022)
-*Middle-office, Department of Data Monitoring and Reconciliation*
-
-- Functioned as a Data Analyst and RPA Specialist
-- Supported RPA (Robotic Process Automation) implementation process
-- Optimized regulatory reporting procedures
-- Participated in launching new banking products
-- Enhanced RPA algorithms for improved efficiency
-- Conducted functional testing using structured test plans
-- Analyzed complex financial data sets to identify trends and anomalies
-- Collaborated with IT teams to implement data-driven solutions
-
-### 🏆 Achievements
-
-- ⏱️ Optimized large data volume loading process, reducing execution time from 4 hours to 15 minutes
-- 🚀 Automated Bank of Russia report generation, cutting processing time from 2.5 hours to 15 minutes
-- 🤖 Implemented RPA solutions for regulatory reporting (NRD) preparation, increasing accuracy by 99%
-- 💻 Designed and implemented a scalable microservices architecture for the payment gateway system, improving system reliability by 30%
-
-### 🎓 Education
-
-- B.Sc. in Financial Markets and Banks, Financial University under the Government of the Russian Federation (2021 - 2025)
+### 📚 Education & Certifications
+- **Financial University under the Government of RF** (2021-2025)  
+  Thesis: "Prospects for the Development of Decentralized Finance (DeFi)"
+- **CFA Level 1** (In Progress) | **FRM Part I** (2024)  
+- **Blockchain Developer Professional Retraining** (2025)
 
 ### 🌐 Languages
-
-- 🇬🇧 English (B2)
-- 🇩🇪 German (B1)
-- 🇷🇺 Russian (Native)
+- 🇷🇺 Russian (Native)  
+- 🇬🇧 English (C1)  
+- 🇩🇪 German (A2)
 
 ### 📫 Connect with Me
 
