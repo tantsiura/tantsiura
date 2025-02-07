@@ -3,7 +3,7 @@
 ## 👩💻 FullStack Analyst | Blockchain Specialist | DeFi Expert
 
 ### 👋 About Me
-System Analyst with 5+ years in fintech, specializing in blockchain solutions and digital financial assets. Expert in high-load system architecture design and asset tokenization.
+Analyst with 5+ years in fintech, specializing in blockchain solutions and digital financial assets. Expert in high-load system architecture design and asset tokenization.
 
 ### 🛠️ Technical Stack
 **Blockchain:** Solidity, ERC-20/ERC-721, DeFi protocols, Smart Contract Auditing  
