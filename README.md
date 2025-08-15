@@ -18,7 +18,7 @@ Analyst with 5+ years in fintech, specializing in blockchain solutions and digit
 
 ### 🌐 Languages
 - 🇷🇺 Russian (Native)  
-- 🇬🇧 English (C1)  
+- 🇬🇧 English (B2)  
 - 🇩🇪 German (A2)
 
 ### 📫 Connect with Me
