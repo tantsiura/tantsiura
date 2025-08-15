@@ -9,7 +9,6 @@ Analyst with 5+ years in fintech, specializing in blockchain solutions and digit
 
 - 📚 Learning smart contract development and audit with GuideDAO
 - 💹 Exploring DeFi protocols and tokenomics
-- 🔍 Contributing as an analyst to the startup project [GIC DAO](https://github.com/gotois)
 
 ### 📚 Education & Certifications
 - **Financial University under the Government of RF** (2021-2025)  
